@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/FruitSlicingGameTemplate/FSG_Scenes/FSG_ReleaseScenes/Scene_1_MainMenu.unity
+  isLoaded: 1
+  isActive: 1
